@@ -18,3 +18,8 @@ sellenv/
 .DS_Store
 .vscode/
 .idea/
+
+# Ignore large data files
+data/sell_prices.csv
+data/sales_train_evaluation.csv
+data/sales_train_validation.csv
